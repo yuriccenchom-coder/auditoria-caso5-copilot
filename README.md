@@ -2,7 +2,12 @@
 
 **Materia:** Ética en Tecnologías de la Información / Computación Científica  
 **Caso de Estudio:** Caso 5 — Plagio Algorítmico y Reutilización no Autorizada de Código Abierto (*GitHub Copilot / OpenAI Codex*)  
-**Integrantes:** [Nombres de los integrantes del equipo]  
+**Integrantes:** 
+
+ALTAMIRANO ALCA, DANIELA ALEXANDRA
+CARRILLO MONTERO, CAMILA ALEXANDRA
+CCENCHO MAURICIO, YURI ADRIANA
+MUÑANTE CHAVEZ, ANTHONY RAÚL
 
 ---
 
